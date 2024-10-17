@@ -15,6 +15,7 @@ To use the Neuron class, ensure you have Python and NumPy installed. You can ins
 
 ```bash
 pip install numpy
+```
 
 Usage
 
