@@ -1,19 +1,19 @@
 # Neuron Class in Python
 
 This repository contains a simple implementation of a Neuron class in Python, utilizing NumPy for numerical operations. The class features basic functionality for a single neuron, including weights, bias, and an activation function.
-Table of Contents
 
-    Installation
-    Usage
-    Code Overview
-    License
+## Table of Contents
 
-Installation
+- [Installation](#installation)
+- [Usage](#usage)
+- [Code Overview](#code-overview)
+- [License](#license)
+
+## Installation
 
 To use the Neuron class, ensure you have Python and NumPy installed. You can install NumPy using pip:
 
-bash
-
+```bash
 pip install numpy
 
 Usage
@@ -54,3 +54,9 @@ The if __name__ == "__main__": block provides a basic example of how to create a
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+vbnet
+
+
+You can copy and paste this Markdown text into your README file. Let me know if you need any more modifications!
+
