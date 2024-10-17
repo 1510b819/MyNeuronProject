@@ -1,4 +1,4 @@
-Neuron Class in Python
+# Neuron Class in Python
 
 This repository contains a simple implementation of a Neuron class in Python, utilizing NumPy for numerical operations. The class features basic functionality for a single neuron, including weights, bias, and an activation function.
 Table of Contents
