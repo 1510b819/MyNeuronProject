@@ -17,10 +17,11 @@ To use the Neuron class, ensure you have Python and NumPy installed. You can ins
 pip install numpy
 ```
 
-Usage
+## Usage
 
 You can use the Neuron class as follows:
 
+```bash
 python
 
 import numpy as np
@@ -40,8 +41,11 @@ output = neuron.forward(inputs)
 
 print(f"Neuron output: {output}")
 
-Code Overview
-Neuron Class
+```
+
+## Code Overview
+
+### Neuron Class
 
     Initialization (__init__): Initializes the neuron with given weights and bias.
 
@@ -49,15 +53,6 @@ Neuron Class
 
     Forward Pass (forward): Computes the neuron's output by performing a dot product of weights and inputs, adding the bias, and applying the activation function. It raises a ValueError if the number of inputs does not match the number of weights.
 
-Example
+**Example**
 
 The if __name__ == "__main__": block provides a basic example of how to create a Neuron instance and compute its output given inputs.
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-vbnet
-
-
-You can copy and paste this Markdown text into your README file. Let me know if you need any more modifications!
-
